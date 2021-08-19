@@ -101,6 +101,7 @@ The images asset used in this game are derived from Public Domain (No Copyright)
     Prapti Novitasari         05122873110-2
     Lady Cristiani            051228127120-99
 
+-----------------
 #英語版
 ## Nakesのウォーゲーム 
 コロナウイルスを扱っているインドネシアの医療従事者の英雄的な物語に触発されたシンプルなゲーム。インドネシアでは医療従事者は**NAKES**と呼ばれています。 このゲームは、Pygameモジュールを使用して作成されました。このプロジェクトは、*__Indonesian Women in Tech: Programming with Python__* 奨学金プログラムの卒業要件を満たすことです。この奨学金は、**CISCO Networking Academy、CISCO System**、および **ITU** と協力して、インドネシア政府の通信情報省によって提供されています。
